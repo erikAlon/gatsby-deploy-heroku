@@ -8,6 +8,9 @@
     "gatsby-link": "^1.6.32",
     "gatsby-plugin-react-helmet": "^1.0.8"
   },
+  "engines": {
+    "yarn": "^1.2.1"
+  },
   "keywords": ["gatsby"],
   "license": "MIT",
   "main": "n/a",
